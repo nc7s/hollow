@@ -4,3 +4,5 @@ https://lib.rs/crates/hollow[image:https://img.shields.io/crates/v/hollow?style=
 https://docs.rs/hollow[image:https://img.shields.io/docsrs/hollow?style=for-the-badge[docs.rs]]
 
 The functionality and use is pretty simple, as is doc comments in `src/lib.rs`.
+
+Moved to https://codeberg.org/ncts/hollow[Codeberg].
