@@ -1,5 +1,6 @@
 = hollow: Rust attr macro that swallows blocks of code
 
-https://lib.rs/hollow[image:https://img.shields.io/crates/v/hollow?style=for-the-badge[crates.io version]]
+https://lib.rs/crates/hollow[image:https://img.shields.io/crates/v/hollow?style=for-the-badge[crates.io version]]
 https://docs.rs/hollow[image:https://img.shields.io/docsrs/hollow?style=for-the-badge[docs.rs]]
 
+The functionality and use is pretty simple, as is doc comments in `src/lib.rs`.

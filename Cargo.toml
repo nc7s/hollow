@@ -2,10 +2,11 @@
 name = 'hollow'
 description = 'attr macro to swallow the body of fn attached to'
 categories = ['development-tools::debugging']
-version = '0.1.0'
+version = '0.1.1'
 edition = '2021'
 license = 'BSD-3-Clause'
 authors = ['Blair Noctis <n@sail.ng>']
+repository = 'https://codeberg.org/ncts/hollow'
 
 [lib]
 proc-macro = true

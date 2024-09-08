@@ -20,7 +20,6 @@ use proc_macro::{Delimiter, Group, TokenStream, TokenTree};
  * default is desired:
  *
  * ```rust
- *
  * struct NoDefault {
  *     value: u64,
  * }
@@ -35,6 +34,7 @@ use proc_macro::{Delimiter, Group, TokenStream, TokenTree};
  * }
  *
  * assert_eq!(42, custom_return().value);
+ * ```
  */
 #[proc_macro_attribute]
 pub fn hollow(attr: TokenStream, item: TokenStream) -> TokenStream {
